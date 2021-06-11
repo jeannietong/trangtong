@@ -1,4 +1,4 @@
-onst WIDTH = 1400;
+const WIDTH = 1400;
 const HEIGHT = 800;
 const PARTICLE_SIZE = 8;
 const PARTICLE_CHANGE_SIZE_SPEED = 0.1;
